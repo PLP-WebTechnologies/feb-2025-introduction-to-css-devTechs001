@@ -1,29 +1,23 @@
-# Introduction to CSS
+# Introduction to CSS Assignment
+
+## Overview
+
+This project demonstrates the basics of CSS (Cascading Style Sheets) by creating a simple webpage that showcases various styling techniques. The assignment includes linking an external CSS file to an HTML document, applying different selectors, and using colors, fonts, and spacing effectively.
 
 ## Objectives
-Link an external CSS file to an HTML document.
-Apply basic styling using selectors.
-Use colors, fonts, and spacing effectively.
 
-## Instructions
+- Link an external CSS file to an HTML document.
+- Apply basic styling using selectors.
+- Use colors, fonts, and spacing effectively.
 
-Create a style.css file.
-Apply CSS to a HTML page.
-Style elements using:
-Classes and IDs.
-Color and typography.
-Margins, paddings, and borders.
+## Files Included
 
->[!NOTE]
->  - Include at least:
->  - Use of 3 selectors
->  - Style an image
->  - Margin, Padding & Borders
->  - Different font
+- `index.html`: The main HTML document that contains the structure of the webpage.
+- `style.css`: The external CSS file that contains all the styles applied to the HTML elements.
 
-# Tasks
- - Link an external CSS file.
- - Apply at least 3 different selectors.
- - Improve readability and aesthetics.
+## Features
 
-Happy Coding! 💻✨
+- **Responsive Design**: The image is styled to be responsive, maintaining its aspect ratio across different screen sizes.
+- **Semantic HTML**: The use of `<header>`, `<main>`, `<section>`, and `<footer>` tags enhances the semantic structure of the document.
+- **Styling Techniques**: The project demonstrates the use of classes, IDs, and element selectors, along with margins, padding, borders, and background colors.
+

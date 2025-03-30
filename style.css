@@ -1,0 +1,44 @@
+/* style.css */
+
+/* Basic Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Default font */
+}
+
+/* Header Styles */
+header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 20px; /* Padding around the header */
+    text-align: center; /* Centered text */
+}
+
+/* Content Section Styles */
+.content {
+    margin: 20px; /* Margin around the content */
+    padding: 20px; /* Padding inside the content */
+    border: 2px solid #ccc; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light background color */
+}
+
+/* Image Styles */
+.styled-image {
+    max-width: 100%; /* Responsive image */
+    height: auto; /* Maintain aspect ratio */
+    border: 5px solid #4CAF50; /* Green border around the image */
+    margin-top: 10px; /* Margin above the image */
+}
+
+/* Footer Styles */
+#footer {
+    text-align: center; /* Centered text */
+    padding: 10px; /* Padding inside the footer */
+    background-color: #333; /* Dark background */
+    color: white; /* White text */
+    position: relative; /* Positioning for footer */
+    bottom: 0; /* Stick to the bottom */
+    width: 100%; /* Full width */
+}
